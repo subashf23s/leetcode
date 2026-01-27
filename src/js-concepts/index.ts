@@ -1,5 +1,8 @@
-import { closures } from "./closures";
+// import { closures } from "./closures";
+
+import { hoisting } from "./hoisting";
 
 export const jsConcepts = () => {
-  closures();
+  // closures();
+  hoisting();
 };
