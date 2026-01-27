@@ -1,6 +1,9 @@
-import { twoSum } from "./problems/0001-two-sum";
+// import { twoSum } from "./problems/0001-two-sum";
+
+import { jsConcepts } from "./js-concepts";
 
 function main() {
-  console.log(twoSum([3, 3], 6));
+  // console.log(twoSum([3, 3], 6));
+  jsConcepts();
 }
 main();
