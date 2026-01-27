@@ -1,3 +1,5 @@
+import { closures } from "./closures";
+
 export const jsConcepts = () => {
-  console.log("JS concepts");
+  closures();
 };
