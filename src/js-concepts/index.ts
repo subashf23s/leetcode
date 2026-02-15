@@ -1,8 +1,11 @@
-// import { closures } from "./closures";
+// import { closures } from "./002closures";
 
-import { hoisting } from "./hoisting";
+import { thisFn } from "./003this";
+
+// import { hoisting } from "./001hoisting";
 
 export const jsConcepts = () => {
   // closures();
-  hoisting();
+  // hoisting();
+  thisFn();
 };
